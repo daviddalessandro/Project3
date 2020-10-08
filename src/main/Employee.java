@@ -1,6 +1,11 @@
 package main;
 
 public class Employee {
+	private String nickname;
+	private double empSalary;
+	private double percentBonus;
+	
+	
 
     /* Write your code here. (Don't forget javadoc comments!)
      * 
